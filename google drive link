@@ -1,0 +1,14 @@
+both are bigger than 25mb so it yelled at me
+
+https://drive.google.com/drive/folders/1-5k2AD6EEbzAj51eUD8ltcheXohtkF5l
+ 2 diff zips one installs system other is systemless
+
+
+i used https://github.com/threefatkids/python_installer_for_android
+as a base then change everything to reflect 
+https://github.com/yubrajbhoi/termux-python
+yubrajbhoi python3.13 for termux credit for the binary/ 
+and repo.  
+
+does work on my razr 2024 no issues with both zips
+if g drive link doesnt work let me know.
